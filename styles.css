@@ -1,1 +1,39 @@
 /* Copy and paste your CSS from CodePen into here */
+.grey-background {
+  background-color: #EEEEEE;
+}
+#main {
+  font-family: Arial;
+}
+#title {
+  text-align: center;
+}
+#subtitle {
+  font-size: 16px;
+  text-align: center;
+}
+#img-div {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  margin: 0;
+}
+#image {
+  display: block;
+  height: auto;
+  width: 480px;
+  max-width: 100%;
+  margin: 0%;
+}
+#img-caption {
+  text-align: center;
+}
+#tribute-open {
+  text-align: center;
+}
+#tribute-info {
+  text-align: left;
+}
+#tribute-link {
+
+}
